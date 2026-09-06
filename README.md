@@ -3,7 +3,7 @@
 **Live demo: [energy-range-simulator.vercel.app](https://energy-range-simulator.vercel.app)**
 
 An interactive tool that models how far an electric vehicle can travel on a
-given battery, built for Formula Electric / Solar Car applications.
+given battery.
 
 Tune mass, aerodynamic drag, rolling resistance, battery capacity, and
 drivetrain/motor efficiency with live sliders, and see range, power draw,
